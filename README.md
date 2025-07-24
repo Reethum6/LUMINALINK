@@ -1,4 +1,4 @@
-#LUMINALINK
+
 PROBLEM STATEMENT:
 
 Centralized monitoring system for street light fault detection and location tracking.
